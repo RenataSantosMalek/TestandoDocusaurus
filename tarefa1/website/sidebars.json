@@ -1,0 +1,10 @@
+{
+  "Links uteis": {
+    "Explorando": ["doc1"],
+    "Tarefa 2": ["doc2"],
+    "Tarefa 3": ["doc3"]
+  },
+  "docs-other": {
+    "Novas informacoes": ["doc4", "doc5"]
+  }
+}
